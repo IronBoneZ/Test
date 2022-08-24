@@ -8,7 +8,8 @@ using UnityEngine.UI;
 public class Character 
 {
 	public string characterName;
-
+	
+	public string Test;
     
     public string displayName = "";
 
